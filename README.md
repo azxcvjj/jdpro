@@ -15,20 +15,20 @@
 国内机用下面指令（带代理）：
 
 ```
-ql repo https://js.6dygit.workers.dev/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://js.6dygit.workers.dev/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_|wskey" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
 
 ```
 国外机用下面指令：
 
 ```
-ql repo https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_|wskey" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
 
 ```
 
 没代理就用gitee版吧，用下面指令！(更新会慢点）
 
 ```
-ql repo https://gitee.com/dylanote/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://gitee.com/dylanote/jdpro.git "jd_|jx_|jddj_|wskey" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
 
 ```
 
